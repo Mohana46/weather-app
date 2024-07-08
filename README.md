@@ -30,5 +30,5 @@
 - Enter a city name in the search bar to get the current weather and forecast for that city.
 - The app will display temperature, weather conditions, and other relevant data.
 
-**Demo**
-(https://weatherapp4626.netlify.app/)
+**Demo:**
+- https://weatherapp4626.netlify.app/
